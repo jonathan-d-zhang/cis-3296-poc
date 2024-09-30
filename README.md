@@ -3,7 +3,7 @@
 # Build Instructions
 
 ## Prerequisites
-* Rust
+* Rust - v1.65.0+
 * A C compiler
 
 ## Running
